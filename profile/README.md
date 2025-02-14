@@ -1,10 +1,10 @@
-# AdoptAI
+# The AI Container Store
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/placeholder/logo.png" alt="TAICS Logo" width="180"/>
 </p>
 
-> **Bridging the gap between cutting-edge AI research and real-world deployment.**  
+> **Brought to you by AdoptAI: Bridging the gap between cutting-edge AI research and real-world deployment.**  
 
 The AI Container Store helps organizations become AI-first with a **structured on-ramp** for adopting, refining, and deploying AI solutions. Our modular approach combines **containerized algorithms**, **education**, and **expert guidance** to accelerate practical and impactful AI adoption.
 
