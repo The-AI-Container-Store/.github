@@ -1,7 +1,7 @@
 # The AI Container Store
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/logo.png" alt="TAICS Logo" width="180"/>
+  <img src="https://github.com/The-AI-Container-Store/.github/blob/main/profile/content/aics-logo.png" alt="TAICS Logo" width="180"/>
 </p>
 
 > **Brought to you by AdoptAI: Bridging the gap between cutting-edge AI research and real-world deployment.**  
